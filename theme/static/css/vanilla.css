@@ -101,7 +101,7 @@ hr {
     margin: 4rem 0;
 }
 
-img {
+img,video {
     display: block;
     height: auto; 
     max-width: 100%; 
