@@ -3,7 +3,7 @@
 @import url("vanilla.css");
 
 body {
-  font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -11,5 +11,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 code, pre {
-  font-family: 'Iosevka Term', monospace;
+  font-family: 'Iosevka Term', Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
