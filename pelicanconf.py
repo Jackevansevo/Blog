@@ -18,7 +18,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-MENUITEMS = (('Resume', 'https://docs.google.com/document/d/e/2PACX-1vRHykkB3oIRnf7HkA6jlb_p_g47D0WPapwppQxyyss9AzXlLHqZTAT8qD0xnG7E6qSk7sNpF3GfdQdm/pub'), ('Feed', "/index.xml"),)
+MENUITEMS = (('Resume', 'https://docs.google.com/document/d/e/2PACX-1vRHykkB3oIRnf7HkA6jlb_p_g47D0WPapwppQxyyss9AzXlLHqZTAT8qD0xnG7E6qSk7sNpF3GfdQdm/pub'), ('Twitter', 'https://twitter.com/ThisIsJackEvans'), ('Feed', "/index.xml"),)
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/ThisIsJackEvans'),
