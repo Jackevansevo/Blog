@@ -13,3 +13,17 @@ h1, h2, h3, h4, h5, h6 {
 code, pre {
   font-family: 'Iosevka Term', Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
 }
+
+.breadcrumb ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.breadcrumb li:not(:last-child)::after {
+    display: inline-block;
+    margin: 0 .40rem;
+    content: "-";
+}
