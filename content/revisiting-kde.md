@@ -21,12 +21,12 @@ heart.
 
 Over the years KDE has (unfairly in my eyes) had a fairly negative reputation,
 and stereotyped for being quite buggy and resource hungry. I don't recall being
-effected by these issues described first hand, but just hearing negative
-sentiments like this left me with a negative impression and drove me away from
-using KDE. So although I do have fond memories of this desktop, they were
-tainted by the consensus of a few vocal Linux enthusiasts at the time. I was
-young and impressionable, and wanted to use to use the 'best' thing, even if
-that meant not being able to form my own independent assessment.
+effected by these issues described first hand, but hearing critical sentiments
+like this left me with a negative impression and drove me away from using KDE.
+So although I do have fond memories of this desktop, they were tainted by the
+opinions of a few vocal Linux enthusiasts at the time. I was young and
+impressionable, and wanted to use to use the 'best' thing, even if that meant
+not being able to form my own independent assessment.
 
 Consequently I was content to stay on Gnome desktop (and various forks) for most
 of my time on Linux. But that all changed pretty recently. I wanted to revisit
@@ -252,9 +252,10 @@ the right thing.
 
 # Conclusion
 
-Overall my experience so far with KDE has been overwhelmingly positive (despite
-what this article might suggest), I included criticism purely to offer some
-balance.
+Overall my experience so far with KDE has been overwhelmingly positive, despite
+some of the criticism covered in this article. It's great to see how far the
+desktop has improved since I last used it, and I'm excited to see where the
+project goes in the future, especially with KDE 6 on the horizon.
 
 I plan to stick with KDE for the foreseeable future, or until I get the nagging
 urge to jump ship and try something new :P
