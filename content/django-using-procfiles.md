@@ -1,5 +1,6 @@
 Title: Django - Manage Multiple Processes with Procfiles
 Date: 2022-09-25
+Status: published
 Category: Python
 Tags: python, django
 

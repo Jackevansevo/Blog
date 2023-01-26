@@ -1,5 +1,6 @@
 Title: Bootstrapping django-allauth with migrations
 Date: 2022-08-06
+Status: published
 Category: Python
 Tags: python, django
 

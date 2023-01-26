@@ -1,5 +1,6 @@
 Title: Django Celery Guide (Part 2)
 Date: 2022-09-24
+Status: published
 Category: Python
 Tags: python, django
 

@@ -1,5 +1,6 @@
 Title: An Sqlalchemy Footgun Revisited
 Date: 2022-07-19
+Status: published
 Category: Python
 Tags: python, sqlalchemy
 

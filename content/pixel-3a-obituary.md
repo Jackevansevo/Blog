@@ -1,5 +1,6 @@
 Title: 🪦 Pixel 3a Obituary
 Date: 2023-01-18
+Status: published
 Category: Personal
 Tags: Android
 

@@ -1,5 +1,6 @@
 Title: Python gracefully detaching debuggers from running containers 🐍🐳🪳
 Date: 2022-07-08
+Status: published
 Category: Python
 Tags: python, docker
 

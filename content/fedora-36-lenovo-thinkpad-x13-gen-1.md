@@ -1,5 +1,6 @@
 Title: Review Fedora 36 on the Lenovo Thinkpad X13 (Gen 1) 🐧💻
 Date: 2022-08-07
+Status: published
 Category: Linux
 Tags: linux, fedora
 

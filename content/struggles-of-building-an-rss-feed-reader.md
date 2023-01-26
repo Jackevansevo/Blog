@@ -1,5 +1,6 @@
 Title: The struggles of building a Feed Reader
 Date: 2022-10-05
+Status: published
 Category: Python
 Tags: python, rss
 

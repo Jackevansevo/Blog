@@ -1,5 +1,6 @@
 Title: PSA: Breaking changes to neovim LSP formatting filter on nightly
 Date: 2022-06-02
+Status: published
 Category: Neovim
 Tags: neovim
 

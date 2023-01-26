@@ -1,5 +1,6 @@
 Title: Revisiting KDE
 Date: 2023-01-15
+Status: published
 Category: Linux
 Tags: Linux
 

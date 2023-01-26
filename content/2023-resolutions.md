@@ -1,5 +1,6 @@
 Title: 2023 Resolutions
 Date: 2022-12-29
+Status: published
 Category: Personal
 
 Here's five resolutions I'm setting myself for 2023. At the end of this year I

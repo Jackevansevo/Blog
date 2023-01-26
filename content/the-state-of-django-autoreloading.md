@@ -1,5 +1,6 @@
 Title: The State of Django Autoreloading
 Date: 2022-09-19
+Status: published
 Category: Python
 Tags: python, django
 

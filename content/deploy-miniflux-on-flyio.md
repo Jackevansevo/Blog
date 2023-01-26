@@ -1,5 +1,6 @@
 Title: Deploy Miniflux on Flyio
 Date: 2022-10-22
+Status: published
 Category: Programming
 Tags: rss, flyio
 

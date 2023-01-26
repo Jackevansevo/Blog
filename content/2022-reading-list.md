@@ -1,5 +1,6 @@
 Title: 📚 2022 Reading List
 Date: 2022-12-14
+Status: published
 Category: Personal
 Tags: books
 

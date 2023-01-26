@@ -1,5 +1,6 @@
 Title: My Ideal Python Project Setup in 2022
 Date: 2022-05-19
+Status: published
 Category: Python
 Tags: python
 

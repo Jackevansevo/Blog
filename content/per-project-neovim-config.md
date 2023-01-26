@@ -1,5 +1,6 @@
 Title: Per Project Neovim Config
 Date: 2022-11-16
+Status: published
 Category: Neovim
 Tags: neovim
 

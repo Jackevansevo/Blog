@@ -1,5 +1,6 @@
 Title: Observations of a Gringo in Brazil 🇬🇧 ✈️  🇧🇷
 Date: 2022-10-15
+Status: published
 Category: Personal
 
 Recently I made the ambitious decision to move from the UK to Brazil to live

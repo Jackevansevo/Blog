@@ -1,5 +1,6 @@
 Title: Confession: I'm a serial Linux Distro hopper
 Date: 2023-01-08
+Status: published
 Category: Linux
 Tags: Linux
 
