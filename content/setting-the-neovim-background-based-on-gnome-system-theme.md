@@ -1,4 +1,4 @@
-Title: 🌓 Setting the Neovim background from on the Gnome system theme
+Title: 🌓 Setting the Neovim background from the Gnome system theme
 Date: 2023-01-29
 Status: published
 Category: Neovim
