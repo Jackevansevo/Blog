@@ -89,14 +89,15 @@ datetime.datetime(2023, 2, 26, 17, 48, 26, 461197)
 
 # The Fix:
 
-![]({static}/images/Screenshot from 2023-02-26 15-13-11.png)
-
-Instead we need to write:
+Instead I needed to write:
 
 ```python
 >>> now.replace(tzinfo=timezone.utc).timestamp()
 1677422906.461197
 ```
+
+![]({static}/images/Screenshot from 2023-02-26 15-13-11.png)
+
 
 There's a note about this behaviour in the
 [documentation](https://docs.python.org/3/library/datetime.html#datetime.datetime.timestamp)
@@ -109,9 +110,12 @@ With this fix in place, the conversion now works as expected:
 ```python
 >>> now
 datetime.datetime(2023, 2, 26, 14, 48, 26, 461197)
+
 >>> schema.load({'timestamp': now.timestamp()})
 {'timestamp': datetime.datetime(2023, 2, 26, 17, 48, 26, 461197)}
+
 >>> schema.load({'timestamp': now.replace(tzinfo=timezone.utc).timestamp()})
+{'timestamp': datetime.datetime(2023, 2, 26, 14, 48, 26, 461197)}
 ```
 
 # Lessons Learnt
