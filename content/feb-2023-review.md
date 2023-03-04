@@ -67,12 +67,14 @@ The attraction is really popular, attracting lots of runners, cyclists and
 walkers. Alongside the road street vendors set up stalls selling food, there's
 music and the vibes are just generally really nice.
 
-The road itself is located not too far from where I'm living, so it's super
-easy to access. This also means I have no excuse to get out there and train
-🏃‍♂️ (like I said I would in my 2023 New Years Resolution).
+The road itself is located not too far from where I live, so it's convenient.
+This also means I have no excuse to get out there and train 🏃‍♂️ (like
+I said I would in my 2023 New Years Resolution).
 
-Speaking of which I'm currently debating whether or not to sign up for a 13k
-run later this month.
+It's been nearly a full year since I last participated in a running event
+(Stafford half marathon) so I'm currently debating whether or not to sign up
+for a [13k run](https://www.circuitodasestacoes.com.br/brasilia/outono/)
+(Circuito das Estações) here in Brasília later this month (26th March).
 
 <figure>
     <img src="{static}/images/PXL_20230219_124525802.jpg" alt="Every Sunday the main road is closed for pedestrians"  style="max-height: 600px"/>
