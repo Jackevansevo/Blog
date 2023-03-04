@@ -17,5 +17,4 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-GOOGLE_ANALYTICS = "G-6RB70N3P5V"
 PLAUSIBLE_ANALYTICS = "jackevansevo.github.io"
