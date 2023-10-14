@@ -1,0 +1,28 @@
+{% if article %}
+<div>
+<i class="bi bi-tags"></i>&nbsp;Tags:
+{% for tag in article.tags %}
+  {% if tag == "Python" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-warning">{{ tag }}</span></a>
+  {% elif tag == "Django" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge" style="background: #0C4B33">{{ tag }}</span></a>
+  {% elif tag == "Neovim" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge" style="background: #7bb65a">{{ tag }}</span></a>
+  {% elif tag == "Vim" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-success">{{ tag }}</span></a>
+  {% elif tag == "Personal" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-danger">{{ tag }}</span></a>
+  {% elif tag == "SQLAlchemy" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-danger">{{ tag }}</span></a>
+  {% elif tag == "Linux" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-dark">{{ tag }}</span></a>
+  {% elif tag == "Fedora" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-primary">{{ tag }}</span></a>
+  {% elif tag == "Debian" %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge" style="background: #a80030">{{ tag }}</span></a>
+  {% else %}
+  <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-secondary">{{ tag }}</span></a>
+  {% endif %}
+{% endfor %}
+</div>
+{% endif %}

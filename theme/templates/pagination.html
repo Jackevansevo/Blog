@@ -1,0 +1,22 @@
+{% if DEFAULT_PAGINATION %}
+  {% set first_page = articles_paginator.page(1) %}
+  {% set last_page = articles_paginator.page(articles_paginator.num_pages) %}
+  <nav aria-label="Page navigation" class="pt-3">
+    <ul class="pagination">
+      <li class="page-item {% if not articles_page.has_previous() %}disabled{% endif %}">
+        <a class="page-link" href="{{ SITEURL }}/{{ articles_previous_page.url }}">Previous</a>
+      </li>
+      {% if articles_page.has_previous() %}
+        <li class="page-item" aria-current="page"><a class="page-link" href="{{ articles_previous_page.url }}">{{ articles_previous_page.number }}</a></li>
+      {% endif %}
+      <li class="page-item active" aria-current="page"><a class="page-link" href="#">{{ articles_page.number }}</a></li>
+      {% if articles_page.has_next() %}
+        <li class="page-item" aria-current="page"><a class="page-link" href="{{ articles_next_page.url }}">{{ articles_next_page.number }}</a></li>
+      {% endif %}
+      <li class="page-item {% if not articles_page.has_next() %}disabled{% endif %}">
+        <a class="page-link" href="{{ SITEURL }}/{{ articles_next_page.url }}">Next</a>
+      </li>
+    </ul>
+  </nav>
+
+{% endif %}
