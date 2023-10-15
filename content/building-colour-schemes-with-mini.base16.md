@@ -29,10 +29,10 @@ but these aren't really to my taste.
 
 Fortunately, mini.nvim comes with:
 [mini.base16](https://github.com/echasnovski/mini.base16), a plugin that allows
-you to generate vim colourschemes from a base16 palette. The [base16
+you to generate vim colorschemes from a base16 palette. The [base16
 project](https://github.com/chriskempson/base16) is a popular framework for
-expressing colourschemes from a palette of 16 colours. Various tools exist to
-convert these palettes into colourschemes for different applications.
+expressing colorschemes from a palette of 16 colours. Various tools exist to
+convert these palettes into colorschemes for different applications.
 
 <div class="alert alert-warning fst-italic">
 Aside: if you've been programming for
@@ -42,19 +42,19 @@ popular base16 palettes, as they're used by a <a class="alert-link fw-normal" hr
 
 <br>
 
-**What about existing base16 vim colourschemes?**
+**What about existing base16 vim colorschemes?**
 
-base16 already has existing colourscheme ports available in the form of
+base16 already has existing colorscheme ports available in the form of
 [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim), various
 lua ports also exist for neovim. These are great if you're happy with a fairly
 vanilla vim/neovim setup.
 
-The problem is these colourscheme implementations might not necessarily support
+The problem is these colorscheme implementations might not necessarily support
 certain third plugins you're using, so things might end up looking ugly or
 visually broken.
 
 Using the [mini.base16](https://github.com/echasnovski/mini.base16) plugin you
-can take a base16 colour palette and generate a neovim colourscheme that
+can take a base16 colour palette and generate a neovim colorscheme that
 supports all the mini.nvim plugins + a bunch of popular third party vim/neovim
 plugins (a full list of supported plugins is available
 [here](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-base16.md#features)).
@@ -66,7 +66,7 @@ The end result is something like this:
 
 ### Building Themes
 
-Here's an example base16 palette (for the [mocha colourscheme](https://github.com/chriskempson/base16-default-schemes/blob/master/mocha.yaml)):
+Here's an example base16 palette (for the [mocha colorscheme](https://github.com/chriskempson/base16-default-schemes/blob/master/mocha.yaml)):
 
 ```yaml
 scheme: "Mocha"
@@ -89,7 +89,7 @@ base0E: "a89bb9"
 base0F: "bb9584"
 ```
 
-I can take these definitions and create a corresponding `mini.base16` colourscheme:
+I can take these definitions and create a corresponding `mini.base16` colorscheme:
 
 ```lua
 require('mini.base16').setup({
