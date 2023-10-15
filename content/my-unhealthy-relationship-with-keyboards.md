@@ -1,4 +1,4 @@
-Title: My unhealthy relationship with keyboards ⌨️
+Title: ⌨️ My unhealthy relationship with keyboards
 Date: 2023-09-22
 Status: published
 Tags: Personal, Keyboards
