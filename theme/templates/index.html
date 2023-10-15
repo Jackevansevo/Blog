@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block content %}
+<div class="content">
   {% for article in articles_page.object_list %}
     <div class="card mb-4">
       <div class="card-body">
@@ -14,4 +15,5 @@
   {% if articles_page.has_other_pages() %}
     {% include 'pagination.html' %}
   {% endif %}
+</div>
 {% endblock content %}

@@ -28,7 +28,7 @@ point of reference to compare it to. At this point in time mechanical keyboards
 didn't register to me as especially popular, or even a hobby. It wasn't until later where I noticed they
 became really popular, mostly amongst programmers and gaming enthusiasts.
 
-![Cherry compact keyboard]({static}/images/Cherry-Keyboard.png)
+<img src="" class="img-fluid rounded mx-auto d-block" alt="Cherry compact keyboard">
 
 I remember loving this keyboard dearly right up until the moment I spilled
 coffee all over it and it died. I was utterly distraught and felt so clumsy for
@@ -42,7 +42,7 @@ no longer available. I distinctly remember it being a super 'pingy' keyboard
 and my parents complaining about the noise, so I experimented with putting
 o-rings in dampen the sound, which helped a bit.
 
-<img src="{static}/images/Noppoo-Choc-Mini.png" class="object-fit-md-contain" alt="Noppoo Choc Mini">
+<img src="{static}/images/Noppoo-Choc-Mini.png" class="img-fluid rounded mx-auto d-block" alt="Noppoo Choc Mini">
 
 Around this time I think I must have seen blank keycaps online for the first
 time and thought this was the coolest thing ever 😎.
@@ -63,7 +63,7 @@ board were scissor switches, super quiet and an absolute joy to type on. Before
 this board I'd never learnt to touch type properly so I credit the ergonomic
 split with actually forcing me to learn how to touch type properly.
 
-![Microsoft Scupt Ergonomic Desktop]({static}/images/Microsoft-Sculpt-Ergonomic-Desktop.png)
+<img src="{static}/images/Microsoft-Sculpt-Ergonomic-Desktop.png" class="img-fluid rounded mx-auto d-block" alt="Microsoft Scupt Ergonomic Desktop">
 
 This keyboard worked great until the 'e' key stopped working. Annoyingly this
 would only start to fail when typing a specific combination of keys. The actual
@@ -76,7 +76,7 @@ Dissatisfied with my earlier bodged attempt to 'improve' (and ultimately
 destroy) my noppoo choc mini I fixed my eyes on the real deal: A Das 4K compact
 with blank keycaps 😎.
 
-![Das 4k Compact]({static}/images/daskeyboard-4C-ultimate.png)
+<img src="{static}/images/daskeyboard-4C-ultimate.png" class="img-fluid rounded mx-auto d-block" alt="Das 4k Compact">
 
 I used this board during my final years of University, and afterwards at my
 first graduate office job. I remember feeling slightly nervous to bring
@@ -97,7 +97,7 @@ I also decided to buy an [apple magic keyboard](). The build quality was top
 notch, it felt nice to type on and the compact size meant it didn't take up
 much space on my desk. I can see why so many people use this kind of keyboard.
 
-![Apple Magic Keyboard]({static}/images/Apple-Magic-Keyboard.png)
+<img src="{static}/images/Apple-Magic-Keyboard.png" class="img-fluid rounded mx-auto d-block" alt="Apple Magic Keyboard">
 
 Running MacOS 100% of the time wasn't all that I'd hoped it to be and I found
 myself swapping between my Mac Mini and other Windows or Linux machines. At
@@ -112,7 +112,7 @@ major OS and made it easy to quickly switch between layouts.
 a Logitech MX Keys. Because it's compatible with multiple OS's I use it for
 work on my company issued Macbook and personal usage on my own Linux machine.
 
-![Logitech MX Keys]({static}/images/Logitceh-MX-Keys.png)
+<img src="{static}/images/Logitceh-MX-Keys.png" class="img-fluid rounded mx-auto d-block" alt="Logitech MX Keys">
 
 I really like the tying experience of this keyboard, the super low profile keys
 allow me to type super fast. However I have a few personal gripes: Firstly the

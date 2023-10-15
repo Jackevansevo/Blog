@@ -61,7 +61,7 @@ plugins (a full list of supported plugins is available
 
 The end result is something like this:
 
-![base16 mocha mini.base16 theme]({static}/images/base16-mocha.png)
+<img src="{static}/images/base16-mocha.png" class="img-fluid rounded mx-auto d-block" alt="base16 mocha mini.base16 theme">
 
 
 ### Building Themes
