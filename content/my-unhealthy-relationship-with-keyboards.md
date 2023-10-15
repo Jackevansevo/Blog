@@ -18,13 +18,13 @@ owned/used in my life up until now and reminisce of keyboards past.
 
 I remember a few keyboards before this, but none of them are noteworthy
 enough to write about. So I'm starting with this board because it was
-my first mechnical keyboard.
+my first mechanical keyboard.
 
 I don't have any receipts to look up the model name but I believe it was
 a [CHERRY
 G84-4100](https://www.cherry.kr/cherry-g84-4100-compact-keyboard.html) (or
-similar). Because this was my first mechnical keyboard I didn't really have any
-point of refernece to compare it to. At this point in time mechanical keyboards
+similar). Because this was my first mechanical keyboard I didn't really have any
+point of reference to compare it to. At this point in time mechanical keyboards
 didn't register to me as especially popular, or even a hobby. It wasn't until later where I noticed they
 became really popular, mostly amongst programmers and gaming enthusiasts.
 
@@ -144,6 +144,6 @@ vendors.
 
 My gripes with the Logitech MX Keys have led me once again to start evaluating
 other options that are out there. I think I'm in the market for a new keyboard
-before the end of 2023, but want to do plenty of reserach to find the best
-value board. I likely write a follow up post about my criteria and reserach and
+before the end of 2023, but want to do plenty of research to find the best
+value board. I likely write a follow up post about my criteria and research and
 perhaps a follow up review if I end up pulling the trigger.
