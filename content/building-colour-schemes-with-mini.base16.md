@@ -162,3 +162,6 @@ Below is an example of a few mini.base16 themes in action:
 <video class="w-100" controls>
     <source src="{static}/images/base16-themes.mp4">
 </video>
+
+You can find these converted themes from the above showcase in my
+[Dotfiles](https://github.com/Jackevansevo/Dotfiles/tree/main/nvim/colors).
