@@ -251,13 +251,13 @@ same app add the following to the `fly.toml` configuration file:
   celery = "python -m celery -A stuff worker -l info -B"
 ```
 
-If you wanted to you could run the broker in it's own separate process:
+If you wanted to you could run celery beat in its own separate process:
 
 ```
 [processes]
   app = "python -m gunicorn --bind :8000 --workers 2 stuff.wsgi"
   worker = "python -m celery -A stuff worker -l info"
-  broker = "python -m celery -A stuff beat -l info"
+  beat = "python -m celery -A stuff beat -l info"
 ```
 
 Fly has some great documentation that goes in depth [here](https://fly.io/docs/app-guides/multiple-processes/)
