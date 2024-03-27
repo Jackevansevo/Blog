@@ -1,6 +1,6 @@
 {% if article %}
 <div>
-<i class="bi bi-tags"></i>&nbsp;Tags:
+<i class="bi bi-tags"></i>&nbsp;<b>Tags</b>:
 {% for tag in article.tags %}
   {% if tag == "Python" %}
   <a href="{{ SITEURL }}/{{ tag.url }}"><span class="badge text-bg-warning">{{ tag }}</span></a>
