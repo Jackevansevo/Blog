@@ -11,7 +11,7 @@ a site with a million adverts and 10 differnet download buttons (a sort of
 virus lottery).
 
 Being a programmer I figured "There's probably a Python library for that" and
-after a little bit of searching I came across
+after a little bit of searching I came across the excellent
 [pytube](https://pytube.io/en/latest/index.html)
 
 <div class="alert alert-info">
