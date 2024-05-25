@@ -26,7 +26,7 @@ different deployable artifacts (app-engine services or cloud-functions).
 A big challenge we face is that each deployment artifact has a different subset
 of modules/requirements/dependencies.
 
-The below image demonstrates a simplified overview of our monorpeo. The colours
+The below image demonstrates a simplified overview of our monorepo. The colours
 indicate where shared library code in our repo might be shared across multiple
 deployable artifacts.
 
