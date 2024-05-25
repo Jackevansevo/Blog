@@ -99,19 +99,19 @@ This is great for frontend engineers I work with who infrequently run the
 backend locally to make changes or debug issues. They don't have to worry about
 the idiosyncrasies of python virtual environments, they just run a command.
 
-During the course of migrating the repo I asked an tonne of questions on the
+During the course of migrating the repo I asked a tonne of questions on the
 Pants slack channel. I found the community there to be incredibly accommodating
 and helpful.
 
 ---
 
 [^1]: Python has `modulefinder` in the standard library that can be used to
-determine the set of modules imported by a script. But it falls short in a lot
-of cases.
+    determine the set of modules imported by a script. But it falls short in
+    a lot of cases.
 
-[^2]: For these situations pants does support multiple lockfiles but we've never had
-to reach for it.
+[^2]: For these situations pants does support multiple lockfiles but we've
+    never had to reach for it.
 
-[^3]: At a previous job we had a Slack bot reminder every time dependabot merged
-changes to remind people to merge upstream and explicitly rebuild their
-containers/re-create their virtual environments.
+[^3]: At a previous job we had a Slack bot reminder every time dependabot
+    merged changes to remind people to merge upstream and explicitly rebuild
+    their containers/re-create their virtual environments.
